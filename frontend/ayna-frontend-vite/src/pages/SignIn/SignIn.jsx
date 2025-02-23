@@ -7,7 +7,7 @@ import useScreenSize from "../../hooks/useScreenSize";
 import { API } from "../../constant";
 import { setToken } from "../../helpers";
 
-const SignIn = () => {
+const Signin = () => {
     const { isDesktopView } = useScreenSize();
     const navigate = useNavigate();
 
@@ -111,4 +111,4 @@ const SignIn = () => {
     );
 };
 
-export default SignIn;
+export default Signin;
