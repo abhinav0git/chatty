@@ -1,4 +1,4 @@
-# Ayna Project - Local Setup Guide 🚀
+# Local Setup 🚀
 
 ## Tech Stack 🛠️
 
